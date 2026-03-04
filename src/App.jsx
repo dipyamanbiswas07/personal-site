@@ -199,9 +199,9 @@ function Hero() {
             <span className="hero-link-icon">in</span>
             dipyamanbiswas07
           </a>
-          <a href="https://github.com/dipyaman-biswas" target="_blank" rel="noopener noreferrer" className="hero-link">
+          <a href="https://github.com/dipyamanbiswas07" target="_blank" rel="noopener noreferrer" className="hero-link">
             <span className="hero-link-icon">gh</span>
-            dipyaman-biswas
+            dipyamanbiswas07
           </a>
         </div>
       </div>
@@ -362,7 +362,7 @@ function Contact() {
   const links = [
     { cmd: './connect --channel email',    label: 'dipyamanbiswas07@gmail.com',        href: 'mailto:dipyamanbiswas07@gmail.com' },
     { cmd: './connect --channel linkedin', label: 'linkedin.com/in/dipyamanbiswas07', href: 'https://linkedin.com/in/dipyamanbiswas07' },
-    { cmd: './connect --channel github',   label: 'github.com/dipyaman-biswas',        href: 'https://github.com/dipyaman-biswas' },
+    { cmd: './connect --channel github',   label: 'github.com/dipyamanbiswas07',       href: 'https://github.com/dipyamanbiswas07' },
   ]
 
   return (
