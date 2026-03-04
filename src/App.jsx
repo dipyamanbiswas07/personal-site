@@ -5,17 +5,17 @@ import './App.css'
 
 const HERO_LINES = [
   { cmd: 'whoami',         output: 'DIPYAMAN BISWAS' },
-  { cmd: 'cat role.txt',   output: 'Engineering Manager · Full Stack · AI/LLM' },
+  { cmd: 'cat role.txt',   output: 'Engineering Manager · Front-End · Full Stack' },
   { cmd: 'ping location',  output: 'PUNE, INDIA — 11+ YRS EXPERIENCE' },
-  { cmd: 'ls skills/',     output: 'ai-llm/  frontend/  backend/  cloud/' },
+  { cmd: 'ls skills/',     output: 'frontend/  backend/  cloud/  ai-llm/' },
 ]
 
 const SKILLS = {
-  'AI & LLM':       ['LangGraph', 'RAG', 'Multi-Agent Systems', 'Fine-tuning', 'LLM Evaluation', 'Prompt Engineering', 'OpenAI API', 'Anthropic Claude'],
-  'Languages':      ['JavaScript', 'TypeScript', 'C#', 'HTML5', 'CSS/SASS/LESS'],
   'Front-End':      ['React.js', 'Vue.js', 'Angular 2+', 'Redux/Flux', 'Pinia', 'Webpack'],
+  'Languages':      ['JavaScript', 'TypeScript', 'C#', 'HTML5', 'CSS/SASS/LESS'],
   'Back-End':       ['.NET Core', 'REST APIs', 'ASP.NET MVC'],
   'DevOps & Cloud': ['Azure', 'Docker', 'Kubernetes', 'Azure DevOps'],
+  'AI & LLM':       ['LangGraph', 'RAG', 'Multi-Agent Systems', 'Fine-tuning', 'LLM Evaluation', 'Prompt Engineering', 'OpenAI API', 'Anthropic Claude'],
 }
 
 const EXPERIENCE = [
