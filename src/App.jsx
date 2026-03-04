@@ -5,7 +5,7 @@ import './App.css'
 
 const HERO_LINES = [
   { cmd: 'whoami',         output: 'DIPYAMAN BISWAS' },
-  { cmd: 'cat role.txt',   output: 'Engineering Manager · Front-End · Full Stack' },
+  { cmd: 'cat role.txt',   output: 'Engineering Manager · Front-End · Full Stack · AI' },
   { cmd: 'ping location',  output: 'PUNE, INDIA — 11+ YRS EXPERIENCE' },
   { cmd: 'ls skills/',     output: 'frontend/  backend/  cloud/  ai-llm/' },
 ]
